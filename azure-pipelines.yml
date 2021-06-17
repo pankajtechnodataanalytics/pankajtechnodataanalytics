@@ -1,7 +1,7 @@
 #variables:
 #- name: one
 #  value: initialValue 
-echo 'Pankaj'
+#echo 'Pankaj'
 # steps:
 #   - script: |
 #       echo ${{ variables.one }} # outputs initialValue
